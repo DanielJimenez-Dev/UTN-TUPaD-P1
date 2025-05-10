@@ -1,7 +1,7 @@
-#Nombre del proyecto: Estrcturas_Secuenciales
+#Nombre del proyecto: TP_Estrcturas_Secuenciales
 
 Autor: Daniel Alberto Jiemenez Valderrama 
-GitHub: [https://github.com/DanielJimenez-Dev/UTN-TUPaD-P1]
+Comision: 12
 
 ## Descripción
 
